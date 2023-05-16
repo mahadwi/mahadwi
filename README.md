@@ -6,4 +6,4 @@
 </br></br>
 
 ## Coding Activity
-<a href="https://github.com/mahadwi"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahadwi&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
+<a href="https://github.com/mahadwi"><img alt="Wakatime Stats" src="[https://github-readme-stats.vercel.app/api/wakatime?username=mahadwi&theme=vue-dark&layout=compact&custom_title=](https://github-readme-stats.vercel.app/api/wakatime?username=mahadwi&theme=vue-dark&layout=compact&custom_title=)" width="100%" /></a>
